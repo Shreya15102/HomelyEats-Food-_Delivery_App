@@ -1,0 +1,403 @@
+[
+    {
+        "CategoryName":"Subzi",
+        "Name":"Shahi Paneer",
+        "image":"https://www.archanaskitchen.com/images/archanaskitchen/Indian_Vegetables_Gravy/Shahi_Paneer_Recipe-1.jpg",
+        "options":[
+          {
+            "full":"100",
+            "half":"50"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Matar Paneer",
+        "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/03/matar-paneer.jpg",
+        "options":[
+          {
+            "full":"90",
+            "half":"45"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Rajma",
+        "image":"https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Rajma-Chawal--scaled.jpg?v=1620402652",
+        "options":[
+          {
+            "full":"80",
+            "half":"40"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Dal Makhani",
+        "image":"https://www.autospyders.com/imfoodie/wp-content/uploads/2022/02/Dal-Makhani.jpg",
+        "options":[
+          {
+            "full":"120",
+            "half":"65"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Dal Tadka",
+        "image":"https://i.ytimg.com/vi/EU3kkqZF2vU/maxresdefault.jpg",
+        "options":[
+          {
+            "full":"70",
+            "half":"40"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Mix Veg",
+        "image":"https://i.ytimg.com/vi/1DmjVZix0vg/maxresdefault.jpg",
+        "options":[
+          {
+            "full":"120",
+            "half":"70"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Chole",
+        "image":"https://geekrobocook.com/wp-content/uploads/2021/01/punjabi-Chole-masale.jpg",
+        "options":[
+          {
+            "full":"80",
+            "half":"45"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Dum Aloo",
+        "image":"https://geekrobocook.com/wp-content/uploads/2021/05/Banrasi-Dum-Aloo.jpg",
+        "options":[
+          {
+            "full":"100",
+            "half":"55"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Subzi",
+        "Name":"Gobhi Aloo",
+        "image":"https://veganbell.com/wp-content/uploads/2020/08/Aloo-Gobi-7.jpg",
+        "options":[
+          {
+            "full":"60",
+            "half":"35"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Starter",
+        "Name":"Grilled Sandwich",
+        "image":"https://c.ndtvimg.com/2023-01/bce3je8g_sandwich_625x300_22_January_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+        "options":[
+          {
+            "Paneer":"80",
+            "Cheese":"70",
+            "Aloo":"60"  
+          }
+        ]
+    },
+    {
+        "CategoryName":"Starter",
+        "Name":"Spring Rolls",
+        "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/spring-rolls-500x375.jpg",
+        "options":[
+          {
+            "full":"80",
+            "half":"45"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Starter",
+        "Name":"Chowmein",
+        "image":"https://www.chefkunalkapur.com/wp-content/uploads/2021/03/veg-chowmein-min-scaled.jpg?v=1620296035",
+        "options":[
+          {
+            "full":"80",
+            "half":"40"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Starter",
+        "Name":"Raj Kachori",
+        "image":"https://www.vegrecipesofindia.com/wp-content/uploads/2018/03/raj-kachori-chaat-recipe-1-500x375.jpg",
+        "options":[
+          {
+            "Regular":"50",
+            "Shahi":"70"
+          }
+        ]
+    },
+    
+    {
+        "CategoryName":"Starter",
+        "Name":"Veg Cutlet",
+        "image":"https://www.yummytummyaarthi.com/wp-content/uploads/2016/06/1.jpg",
+        "options":[
+          {
+            "8 peices":"90",
+            "4 peices":"45"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Starter",
+        "Name":"Paneer Tikka",
+        "image":"https://geekrobocook.com/wp-content/uploads/2021/03/6.-Paneer-Tikka.jpg",
+        "options":[
+          {
+            "full":"100",
+            "half":"50"
+          }
+        ]
+    },
+    {
+        "CategoryName":"Roti/Bread",
+        "Name":"Tandoor Roti",
+        "image":"https://i0.wp.com/www.indianrecipeinfo.com/wp-content/uploads/2011/12/Tandoori-Roti.jpg",
+        "options":[
+          {
+            "full":"70",
+            "half":"35"
+          }
+        ]
+    },
+    {
+      "CategoryName":"Roti/Bread",
+      "Name":"Plain Naan",
+      "image":"https://anandschicken.com/wp-content/uploads/2021/07/DIV02566-scaled.jpg",
+      "options":[
+        {
+          "full":"70",
+          "half":"35"
+        }
+      ]
+  },
+  {
+    "CategoryName":"Roti/Bread",
+    "Name":"Butter Naan",
+    "image":"https://i.ytimg.com/vi/H3tW-UFSojU/maxresdefault.jpg",
+    "options":[
+      {
+        "full":"80",
+        "half":"40"
+      }
+    ]
+},
+{
+  "CategoryName":"Roti/Bread",
+  "Name":"Lachcha Paratha",
+  "image":"https://www.scratchingcanvas.com/wp-content/uploads/2019/04/Laccha-Paratha-Easy.3.jpg",
+  "options":[
+    {
+      "full":"90",
+      "half":"45"
+    }
+  ]
+},
+{
+  "CategoryName":"Roti/Bread",
+  "Name":"Missi Roti",
+  "image":"https://img-global.cpcdn.com/recipes/9f37646ed0a28ebf/1200x630cq70/photo.jpg",
+  "options":[
+    {
+      "full":"80",
+      "half":"40"
+    }
+  ]
+},
+{
+  "CategoryName":"Roti/Bread",
+  "Name":"Paratha",
+  "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aloo_Paratha1.jpg/800px-Aloo_Paratha1.jpg",
+  "options":[
+    {
+      "Gobhi":"60",
+      "Aloo":"50",
+      "Stuffed":"70"
+    }
+  ]
+},
+
+{
+  "CategoryName":"Desert",
+  "Name":"Gajar Halwa",
+  "image":"https://tastedrecipes.com/wp-content/uploads/2020/01/gajar-ka-halwa-recipe.png",
+  "options":[
+    {
+      "full":"100",
+      "half":"55"
+    }
+  ]
+},
+{
+  "CategoryName":"Desert",
+  "Name":"Gulab Jamun",
+  "image":"https://www.ammakithaali.com/wp-content/uploads/2021/10/IMG_0475-scaled.jpg",
+  "options":[
+    {
+      "4 peices":"60",
+      "2 peices":"30"
+    }
+  ]
+},
+{
+  "CategoryName":"Desert",
+  "Name":"Kulfi",
+  "image":"https://c.ndtvimg.com/2022-03/bt1hei5o_kulfi_625x300_14_March_22.jpg",
+  "options":[
+    {
+      "Elaichi":"45",
+      "Kesar":"40"
+    }
+  ]
+},
+{
+  "CategoryName":"Desert",
+  "Name":"Chocolate Cake",
+  "image":"https://pic.warmoven.in/catalog/product/cache/4e14bcb566d25893ae7201d4dbdc22fd/image/2287b12c/classic-belgian-chocolate-cake.jpg",
+  "options":[
+    {
+      "full":"200",
+      "half":"120"
+    }
+  ]
+},
+{
+  "CategoryName":"Rice/Biryani",
+  "Name":"Veg Pulao",
+  "image":"https://4.bp.blogspot.com/-qWzc-7lpAXk/WIEb8Z55zmI/AAAAAAAACdE/iewzgRqTP2Q-TdRenIB3zLueuE9rW2nIQCLcB/s1600/vegetable%2Bpulao.JPG",
+  "options":[
+    {
+      "full":"70",
+      "half":"40"
+    }
+  ]
+},
+{
+  "CategoryName":"Rice/Biryani",
+  "Name":"Jeera Rice",
+  "image":"https://www.cubesnjuliennes.com/wp-content/uploads/2019/04/Fried-Jeera-Rice-Recipe-500x375.jpg",
+  "options":[
+    {
+      "full":"70",
+      "half":"40"
+    }
+  ]
+},
+{
+  "CategoryName":"Rice/Biryani",
+  "Name":"Dal Khichdi",
+  "image":"https://geekrobocook.com/wp-content/uploads/2021/03/20.-Gujarati-Khichdi-1200x900.jpg",
+  "options":[
+    {
+      "full":"60",
+      "half":"35"
+    }
+  ]
+},
+{
+  "CategoryName":"Rice/Biryani",
+  "Name":"Fried Rice",
+  "image":"https://recipes.timesofindia.com/thumb/75581339.cms?width=1200&height=900",
+  "options":[
+    {
+      "full":"60",
+      "half":"35"
+    }
+  ]
+},
+{
+  "CategoryName":"Rice/Biryani",
+  "Name":"Veg Biryani",
+  "image":"https://i.ytimg.com/vi/JqP4wSWsYr4/maxresdefault.jpg",
+  "options":[
+    {
+      "full":"80",
+      "half":"45"
+    }
+  ]
+},
+{
+  "CategoryName":"Snacks",
+  "Name":"Namak Paare",
+  "image":"https://khana.behindtalkies.com/wp-content/uploads/sites/13/2023/01/namak-Pare.jpg",
+  "options":[
+    {
+      "full":"100",
+      "half":"60"
+    }
+  ]
+},
+{
+  "CategoryName":"Snacks",
+  "Name":"Plain Mathri",
+  "image":"https://www.vegrecipesofindia.com/wp-content/uploads/2013/10/mathri-recipe-2-500x375.jpg",
+  "options":[
+    {
+      "full":"90",
+      "half":"45"
+    }
+  ]
+},
+{
+  "CategoryName":"Snacks",
+  "Name":"Besan Ladoo",
+  "image":"https://www.ammakithaali.com/wp-content/uploads/2022/10/besan-laddu.jpg",
+  "options":[
+    {
+      "full":"200",
+      "half":"125"
+    }
+  ]
+},
+{
+  "CategoryName":"Snacks",
+  "Name":"Aam pickle",
+  "image":"https://www.thespruceeats.com/thmb/RWSxON5V2tG5qZCKdfyX1qG27gc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/group-photograph-of-indian-pickles-like-mango-pickle---lemon-pickle-and-green-chilli-pickle--sarved-in-white-ceramic-bowl--selective-focus-666981148-5b0f5ae30e23d9003605af19.jpg",
+  "options":[
+    {
+      "full":"120",
+      "half":"65"
+    }
+  ]
+},
+{
+  "CategoryName":"Snacks",
+  "Name":"Nimboo Pickle",
+  "image":"https://i.ytimg.com/vi/S5fYbjBb0zs/maxresdefault.jpg",
+  "options":[
+    {
+      "full":"120",
+      "half":"65"
+    }
+  ]
+},
+{
+  "CategoryName":"Thaali",
+  "Name":"Thaali",
+  "image":"https://post.healthline.com/wp-content/uploads/2020/07/thali-indian-732x549-thumbnail.jpg",
+  "options":[
+    {
+      "Regular":"150",
+      "Special":"180"
+      
+    }
+  ]
+}
+]
